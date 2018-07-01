@@ -21,6 +21,10 @@ public class InstanceVariable {
     public void printEmp() {
         System.out.println("name  : " + name);
         System.out.println("salary :" + salary);
+
+	System.out.println("name  : " + name);
+        System.out.println("salary :" + salary);
+	
     }
 
     public static void main(String args[]) {
