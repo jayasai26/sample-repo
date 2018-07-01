@@ -23,6 +23,9 @@ class Student {
     public void showData() {
         System.out.println("Value of a = " + a);
         System.out.println("Value of b = " + b);
+        
+        System.out.println("Value of a = " + a);
+        System.out.println("Value of b = " + b);
     }
 
     /* Try this by uncommenting it.
